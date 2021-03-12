@@ -9,7 +9,8 @@ I don’t know how it feels to get bored. On the one hand, I like spending my ti
 <br></br>
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=kurdykartur&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kurdykartur/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurdykartur&hide=javascript,html&langs_count=5)](https://github.com/kurdykartur/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurdykartur)](https://github.com/kurdykartur/github-readme-stats)
+
 <!--
 **kurdykartur/kurdykartur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
