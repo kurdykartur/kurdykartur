@@ -8,7 +8,6 @@ I don’t know how it feels to get bored. On the one hand, I like spending my ti
 [<img align="left" alt="FB | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br></br>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=kurdykartur&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kurdykartur/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurdykartur)](https://github.com/kurdykartur/github-readme-stats)
 
 <!--
@@ -29,4 +28,3 @@ Here are some ideas to get you started:
 [website]: https://codetain.com/about-us/artur-kurdyk
 [youtube]: https://www.youtube.com/channel/UCsMqplC1o2zuP1xXg-aZz0Q
 [linkedin]: https://www.linkedin.com/in/artur-kurdyk-59b0b3175/
-[facebook]: https://www.facebook.com/kurdykartur
